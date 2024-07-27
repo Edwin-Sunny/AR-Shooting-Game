@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ShootArObject.unity
+    guid: 20ae5d58500263a4c998739c566707e7
+  - enabled: 0
+    path: Assets/Scenes/ShootArObjectScore.unity
+    guid: 7280c61271ddfd7498063d7cabaa9bf0
+  - enabled: 1
+    path: Assets/ShootArObjectScoredup.unity
+    guid: 35181269ef60a0741811a2da189d0ed5
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 882a8d6ae005f264ea3463182352cd81, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: c0855c7bdbd567e449d2414d1f57dd18, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f49bd3f0bd7528f43b679bb4c4117c45, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 381f96291b0320749b89a894883054e6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 21bdc40cc03274149a349e52b5699285, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5a7811ee38aa9be41b82e55c8695e79c, type: 2}
+  m_UseUCBPForAssetBundles: 0
